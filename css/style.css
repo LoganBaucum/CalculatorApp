@@ -39,11 +39,6 @@ html {
     box-shadow: 0 5px 5px rgba(0,0,0,0.3);
   }
 
-  .equal-sign {
-    /* height: 98%; */
-    /* grid-area: 3 / 4 / 7 / 5; */
-  }
-
   .calculator-keys {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
